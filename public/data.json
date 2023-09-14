@@ -11,7 +11,7 @@
       "id": "2",
       "img": "https://i.ibb.co/Bt3ZBS6/Rectangle-2-3.png",
       "title": "Introduction to Algorithms",
-      "body": "Master the art of designing and analyzing algorithms. Explore data structures like trees, graphs, and heaps.",
+      "body": "This course provides a solid foundation in programming concepts. Learn the fundamentals of coding in languages like Python and Java.",
       "price": "$249.95",
       "credit": "4.8 out of 5 stars"
     },
@@ -19,7 +19,7 @@
       "id": "3",
       "img": "https://i.ibb.co/0BRGHtL/Rectangle-2-4.png",
       "title": "Introduction to C++ for DSA",
-      "body": "Dive into the world of machine learning. Understand supervised and unsupervised learning, and implement models.",
+      "body": "This course provides a solid foundation in programming concepts. Learn the fundamentals of coding in languages like Python and Java.",
       "price": "$299.00",
       "credit": "4.6 out of 5 stars"
     },
@@ -27,7 +27,7 @@
       "id": "4",
       "img": "https://i.ibb.co/vqZW0Y2/Rectangle-3.png",
       "title": "Basic Data Structures",
-      "body": "Protect against cyber threats. Learn about encryption, network security, and ethical hacking techniques.",
+      "body": "This course provides a solid foundation in programming concepts. Learn the fundamentals of coding in languages like Python and Java.",
       "price": "$199.99",
       "credit": "4.9 out of 5 stars"
     },
@@ -35,7 +35,7 @@
       "id": "5",
       "img": "https://i.ibb.co/qFz2Ygw/Rectangle-2.png",
       "title": "Introduction to OOP Python",
-      "body": "Explore the world of databases. Learn SQL, database design, and management techniques.",
+      "body": "This course provides a solid foundation in programming concepts. Learn the fundamentals of coding in languages like Python and Java.",
       "price": "$179.95",
       "credit": "4.7 out of 5 stars"
     },
@@ -43,7 +43,7 @@
       "id": "6",
       "img": "https://i.ibb.co/6whk77t/Rectangle-2-5.png",
       "title": "Software Engineering",
-      "body": "Create dynamic and interactive web applications. Build modern websites using front-end technologies.",
+      "body": "This course provides a solid foundation in programming concepts. Learn the fundamentals of coding in languages like Python and Java.",
       "price": "$149.99",
       "credit": "4.6 out of 5 stars"
     },
@@ -51,7 +51,7 @@
       "id": "7",
       "img": "https://i.ibb.co/30hZY69/Rectangle-3-1.png",
       "title": "AWS, Cloud Computing",
-      "body": "Delve into the world of AI. Learn about neural networks, natural language processing, and AI applications.",
+      "body": "This course provides a solid foundation in programming concepts. Learn the fundamentals of coding in languages like Python and Java.",
       "price": "$299.95",
       "credit": "4.8 out of 5 stars"
     },
@@ -59,7 +59,7 @@
       "id": "8",
       "img": "https://i.ibb.co/St9CJv6/Rectangle-2-1.png",
       "title": "Database (MySQL)",
-      "body": "Understand the core of computer systems. Study operating system principles and kernel development.",
+      "body": "This course provides a solid foundation in programming concepts. Learn the fundamentals of coding in languages like Python and Java.",
       "price": "$249.99",
       "credit": "4.7 out of 5 stars"
     },
@@ -67,7 +67,7 @@
       "id": "9",
       "img": "https://i.ibb.co/K7Fg9pQ/Rectangle-2-6.png",
       "title": "Problem-Solving Part",
-      "body": "Learn best practices in software development. Cover topics like version control, testing, and agile methodologies.",
+      "body": "This course provides a solid foundation in programming concepts. Learn the fundamentals of coding in languages like Python and Java.",
       "price": "$199.95",
       "credit": "4.5 out of 5 stars"
     }

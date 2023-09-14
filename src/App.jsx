@@ -1,5 +1,6 @@
 
 import './App.css'
+import Home from './components/Home/Home'
 
 function App() {
 
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
       
-      <h1 className='text-6xl text-violet-600'>Vite + React</h1>
+      <Home></Home>
       
     </>
   )
