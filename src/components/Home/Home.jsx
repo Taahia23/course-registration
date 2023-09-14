@@ -8,6 +8,7 @@ const Home = () => {
     const [selectedCourses, setSelectedCourses] = useState([]);
     const [totalCredit, setTotalCredit] = useState(0)
     const [remaining, setRemaining] = useState(0);
+    const [totalPrice, setTotalPrice] = useState(0);
 
 
     useEffect(() => {
@@ -19,6 +20,7 @@ const Home = () => {
      const handleSelectButton = (course) => {
         const isExist = selectedCourses.find(item => item.id == course.id);
         let count = course.credit;
+        let price = course.price;
 
         if(isExist){
             alert('This course is already added in the list')
@@ -27,6 +29,7 @@ const Home = () => {
 
             selectedCourses.forEach(item => {
                 count = count + item.credit;
+                price = price + item.price;
             })
 
             const totalRemaining = 20 - count;
@@ -38,6 +41,7 @@ const Home = () => {
             else {
                 setTotalCredit(count);
                 setRemaining(totalRemaining);
+                setTotalPrice(price);
                 const newCourses = [...selectedCourses, course];
                 setSelectedCourses(newCourses)
             }
@@ -87,6 +91,7 @@ const Home = () => {
                 selectedCourses ={selectedCourses}
                 totalCredit ={totalCredit}
                 remaining ={remaining}
+                totalPrice ={totalPrice}
 
                 >
                 

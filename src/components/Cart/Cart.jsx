@@ -1,6 +1,6 @@
 
 
-const Cart = ({ selectedCourses,totalCredit, remaining }) => {
+const Cart = ({ selectedCourses,totalCredit, remaining, totalPrice }) => {
     return (
         <div className="w-2/3 bg-slate-50 p-5 rounded-xl">
 
@@ -20,7 +20,7 @@ const Cart = ({ selectedCourses,totalCredit, remaining }) => {
             }
             <hr className="border-1 border-black mt-5" />
             <h3 className="text-lg font-bold mb-5 mt-3">Total Credit Hour: {totalCredit} </h3>
-            {/* <h3 className="text-lg font-bold mb-5 mt-3">Total Price: </h3> */}
+            <h3 className="text-lg font-bold mb-5 mt-3">Total Price: {totalPrice}</h3>
 
 
         </div>
