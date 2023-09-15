@@ -7,10 +7,10 @@ The objective of the project is to develop an efficient and user-friendly Online
 
 There are some project features:
 1.Add courses to Cart:
-	 Student can add courses as there will into the cart.
+	 Student can add courses as their will into the cart.
 
 2.Include credit information: 
-	student can enroll any number of courses. But total credit odf all courses must be below 20. After completing the limitation an alert will shown.
+	student can enroll any number of courses. But total number of credit of all courses must be below 20. After completing the limitation an alert will shown.
 
 3. Include pricing information: 
 	student can see the total price of which courses he has been added.
